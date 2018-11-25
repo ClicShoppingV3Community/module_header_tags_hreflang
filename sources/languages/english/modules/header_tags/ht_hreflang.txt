@@ -1,0 +1,4 @@
+
+ module_header_tags_hreflang_title =  Do  you want use the google meta ht_hreflang allowin at google to identify the content language ?
+ module_header_tags_hreflang_description = Add meta ht_hreflang balise in the shop - Please take care before using
+

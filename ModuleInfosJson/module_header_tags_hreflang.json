@@ -1,0 +1,29 @@
+{
+  "title":			"module_header_tags_hreflang",
+  "type":       "meta tag",
+  "vendor":			"header_tags",
+  "is_free":   "Yes",
+  "website_link_to_sell" : "",
+  "version":			1.0,
+  "req_core_version":	3.0,
+  "license":			"GPL 2 - MIT",
+  "tag":			    "header tag, script, meta tag, json, google, language",
+  "install":            "includes/modules/",
+  "module_directory":   "header_tags",
+  "apps_name":          "",
+  "type_module":        "fixe",
+  "dependance":         "",
+
+  "description":        "Metatag provide information about a given Web page, most often to help search engines categorize them correctly. They are inserted into the HTML document, but more often are not directly visible to a user visiting the site.",
+  "image":              "",
+
+  "authors": [
+    {
+      "name":		    "ClicShopping Team",
+      "company":	    "Innov-concept",
+      "email":	        "",
+      "website":	    "http://www.clicshopping.org",
+      "Community":	  "http://www.clicshopping.org"
+    }
+  ]
+}
